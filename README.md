@@ -13,6 +13,6 @@ Mi recomendación:
 
 Por último: 
 
-Si encontrás un error o querés contribuir sos super bienvenido/a! Podés forkear el repo y hacer un pr, o también editar el sharelatex.
+Si encontrás un error o querés contribuir sos super bienvenido/a! Podés forkear el repo y hacer un pr, o también editar el sharelatex (https://www.overleaf.com/7441671317zpfrvdgmwddn).
 
 Saludos!
